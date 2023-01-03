@@ -11,7 +11,7 @@
     {
       "id": 3,
       "name": "piyo"
-    },
+    }
   ],
   "lineItems": [
     {
@@ -28,7 +28,7 @@
       "id": 3,
       "advertiserId": 2,
       "name": "piyoLine"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
