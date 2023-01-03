@@ -1,9 +1,34 @@
 {
-  "posts": [
+  "advertisers": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "hoge"
+    },
+    {
+      "id": 2,
+      "name": "fuga"
+    },
+    {
+      "id": 3,
+      "name": "piyo"
+    },
+  ],
+  "lineItems": [
+    {
+      "id": 1,
+      "advertiserId": 1,
+      "name": "hogeLine"
+    },
+    {
+      "id": 2,
+      "advertiserId": 1,
+      "name": "fugaLine"
+    },
+    {
+      "id": 3,
+      "advertiserId": 2,
+      "name": "piyoLine"
+    },
   ],
   "profile": {
     "name": "typicode"
